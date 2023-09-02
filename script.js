@@ -1,2 +1,5 @@
 console.loh("hi")
 console.log("by")
+console.log("hi")
+console.log("hello")
+console.log("bye2")
