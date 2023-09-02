@@ -1,0 +1,10 @@
+git init
+git add .
+git commit 
+git status
+git diff script.js
+git log
+git show HEAD
+git checkout HEAD filename--->working as last commit
+git checkout reset filename-->staging same as last commit
+git reset 7sh
